@@ -6,7 +6,7 @@
         "did:btcr:xz35-jznz-q9yu-ply": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:btcr:xz35-jznz-q9yu-ply",
-          "duration": 2.953723592,
+          "duration": 3.345906251,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -15,7 +15,7 @@
         "did:btcr:xkrn-xz7q-qsye-28p": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:btcr:xkrn-xz7q-qsye-28p",
-          "duration": 2.58341843,
+          "duration": 2.589954316,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -24,7 +24,7 @@
         "did:btcr:x705-jznz-q3nl-srs": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:btcr:x705-jznz-q3nl-srs",
-          "duration": 2.410871479,
+          "duration": 2.779758163,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -52,7 +52,7 @@
               "message": "'https://w3id.org/security/suites/x25519-2019/v1' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 5.629439861,
+          "duration": 5.528317954,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -60,31 +60,31 @@
       {
         "did:sov:test:6cgbu8ZPoWTnR5Rv5JcSMB": {
           "error": "no response",
-          "duration": 62.433085616
+          "duration": 62.459983613
         }
       },
       {
         "did:sov:builder:VbPQNHsvoLZdaNU7fTBeFx": {
           "error": "no response",
-          "duration": 62.316848321
+          "duration": 62.448818182
         }
       },
       {
         "did:sov:idunion:2GMSLg2A8JXcdYVsPC4Jui": {
           "error": "no response",
-          "duration": 62.933397767
+          "duration": 62.295350397
         }
       },
       {
         "did:sov:idunion:test:BDrEcHc8Tb4Lb2VyQZWEDE": {
           "error": "no response",
-          "duration": 62.196269822
+          "duration": 62.297218601
         }
       },
       {
         "did:sov:indicio:demo:KKyAeG7woJMV6MhhAREVKp": {
           "error": "no response",
-          "duration": 62.178383437
+          "duration": 62.316369979
         }
       }
     ]
@@ -98,58 +98,43 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 4.496548489
+          "duration": 4.072442746
         }
       },
       {
         "did:indy:sovrin:test:6cgbu8ZPoWTnR5Rv5JcSMB": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": false,
-          "valid_jsonld": false,
-          "duration": 31.348406144
+          "error": "no response",
+          "duration": 47.492851643
         }
       },
       {
         "did:indy:sovrin:builder:VbPQNHsvoLZdaNU7fTBeFx": {
           "error": "no response",
-          "duration": 32.164176984
+          "duration": 62.866188839
         }
       },
       {
         "did:indy:idunion:2GMSLg2A8JXcdYVsPC4Jui": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": true,
-          "valid_jsonld": true,
-          "duration": 4.716546773
+          "error": "no response",
+          "duration": 62.435460331
         }
       },
       {
         "did:indy:idunion:test:BDrEcHc8Tb4Lb2VyQZWEDE": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": true,
-          "valid_jsonld": true,
-          "duration": 8.020473334
+          "error": "no response",
+          "duration": 62.080610269
         }
       },
       {
         "did:indy:indicio:demo:KKyAeG7woJMV6MhhAREVKp": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": true,
-          "valid_jsonld": true,
-          "duration": 3.336751279
+          "error": "no response",
+          "duration": 47.762880507
         }
       },
       {
         "did:indy:nxd:LLDnZr8iaYM3F77pUWXnVX": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": true,
-          "valid_jsonld": false,
-          "duration": 4.188181585
+          "error": "no response",
+          "duration": 62.064464597
         }
       }
     ]
@@ -163,7 +148,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.657028623
+          "duration": 4.181357543
         }
       },
       {
@@ -172,7 +157,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.732508704
+          "duration": 3.598272278
         }
       },
       {
@@ -181,7 +166,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.484155353
+          "duration": 3.766380433
         }
       }
     ]
@@ -192,7 +177,7 @@
       {
         "did:stack:v0:16EMaNw3pkn3v6f2BgnSSs53zAKH4Q8YJg-0": {
           "error": "no response",
-          "duration": 62.063723287
+          "duration": 62.185796047
         }
       }
     ]
@@ -204,7 +189,7 @@
         "did:web:identity.foundation": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:web:identity.foundation",
-          "duration": 2.48801719,
+          "duration": 2.588669985,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -222,7 +207,7 @@
               "error": "there must be one 'type' in 'service'"
             }
           ],
-          "duration": 3.829200944,
+          "duration": 4.239034371,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -238,7 +223,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.946046795
+          "duration": 4.126792306
         }
       },
       {
@@ -247,7 +232,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.005500738
+          "duration": 3.39536124
         }
       },
       {
@@ -256,7 +241,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.782387167
+          "duration": 3.051622464
         }
       },
       {
@@ -265,7 +250,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.131889299
+          "duration": 2.866540968
         }
       },
       {
@@ -274,7 +259,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 4.801431319
+          "duration": 2.93199612
         }
       }
     ]
@@ -301,7 +286,7 @@
               "message": "add 'https://w3id.org/security/suites/secp256k1recovery-2020'"
             }
           ],
-          "duration": 6.779402731,
+          "duration": 7.655168877,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -328,7 +313,7 @@
               "message": "'{\"@base\"=>\"did:peer:2.Ez6LSghwSE437wnDE1pt3X6hVDUQzSjsHzinpX3XFvMjRAm7y.Vz6Mkhh1e5CEYYq6JBUcTZ6Cp2ranCWRrv7Yax3Le4N59R6dd.SeyJ0IjoiZG0iLCJzIjoiaHR0cHM6Ly9hbGljZS5kaWQuZm1ncC5hcHAvIiwiciI6W10sImEiOlsiZGlkY29tbS92MiJdfQ\"}' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 3.103703837,
+          "duration": 3.043303609,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -350,7 +335,7 @@
               "message": "'{\"@base\"=>\"did:peer:2.Ez6LSpSrLxbAhg2SHwKk7kwpsH7DM7QjFS5iK6qP87eViohud.Vz6MkqRYqQiSgvZQdnBytw86Qbs2ZWUkGv22od935YF4s8M7V.SeyJ0IjoiZG0iLCJzIjoiaHR0cHM6Ly9leGFtcGxlLmNvbS9lbmRwb2ludDEiLCJyIjpbImRpZDpleGFtcGxlOnNvbWVtZWRpYXRvciNzb21la2V5MSJdLCJhIjpbImRpZGNvbW0vdjIiLCJkaWRjb21tL2FpcDI7ZW52PXJmYzU4NyJdfQ\"}' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 2.580672985,
+          "duration": 2.546965329,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -393,7 +378,7 @@
               "error": "add 'https://w3id.org/security/suites/secp256k1-2019'"
             }
           ],
-          "duration": 3.185284503,
+          "duration": 3.164423357,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -423,7 +408,7 @@
               "error": "add 'https://w3id.org/security/suites/secp256k1-2019'"
             }
           ],
-          "duration": 2.996864554,
+          "duration": 3.163452385,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -436,7 +421,7 @@
       {
         "did:jolo:e76fb4b4900e43891f613066b9afca366c6d22f7d87fc9f78a91515be24dfb21": {
           "error": "no response",
-          "duration": 61.840193623
+          "duration": 61.948970578
         }
       }
     ]
@@ -448,7 +433,7 @@
         "did:hcr:0f674e7e-4b49-4898-85f6-96176c1e30de": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:hcr:0f674e7e-4b49-4898-85f6-96176c1e30de",
-          "duration": 4.244239832,
+          "duration": 4.185885796,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -462,7 +447,7 @@
         "did:elem:ropsten:EiCtwD11AV9e1oISQRHnMJsBC3OBdYDmx8xeKeASrKaw6A": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:elem:ropsten:EiCtwD11AV9e1oISQRHnMJsBC3OBdYDmx8xeKeASrKaw6A",
-          "duration": 2.249318157,
+          "duration": 2.218219079,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -476,7 +461,7 @@
         "did:github:gjgd": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:github:gjgd",
-          "duration": 2.335396936,
+          "duration": 2.332740553,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -507,7 +492,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 4.404518513,
+          "duration": 4.730330292,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -533,7 +518,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 3.639372192,
+          "duration": 3.530266985,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -556,7 +541,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 4.705097096,
+          "duration": 4.8324802,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -572,7 +557,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.887850992
+          "duration": 3.115817821
         }
       },
       {
@@ -581,7 +566,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.295064352
+          "duration": 3.330366606
         }
       },
       {
@@ -590,7 +575,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.422569824
+          "duration": 3.331253502
         }
       }
     ]
@@ -602,7 +587,7 @@
         "did:factom:testnet:6aa7d4afe4932885b5b6e93accb5f4f6c14bd1827733e05e3324ae392c0b2764": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:factom:testnet:6aa7d4afe4932885b5b6e93accb5f4f6c14bd1827733e05e3324ae392c0b2764",
-          "duration": 2.670831147,
+          "duration": 2.499663427,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -611,7 +596,7 @@
         "did:factom:testnet:c2d5aa15943c93db313f140e7ed87ec9891d02acbde748932db583aa3080af08": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:factom:testnet:c2d5aa15943c93db313f140e7ed87ec9891d02acbde748932db583aa3080af08",
-          "duration": 2.342987723,
+          "duration": 2.240428799,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -634,7 +619,7 @@
               "error": "add 'https://w3id.org/security/suites/secp256k1-2019'"
             }
           ],
-          "duration": 4.172395615,
+          "duration": 4.013928094,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -650,7 +635,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 7.085439477
+          "duration": 7.305313264
         }
       },
       {
@@ -667,7 +652,7 @@
               "message": "'https://w3id.org/security/v1' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 6.661323256,
+          "duration": 6.606632905,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -681,7 +666,7 @@
         "did:schema:public-ipfs:json-schema:Qma2beXKwZeiUXcaRaQKwbBV1TqyiJnsMTYExUTdQue43J": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:schema:public-ipfs:json-schema:Qma2beXKwZeiUXcaRaQKwbBV1TqyiJnsMTYExUTdQue43J",
-          "duration": 2.636620014,
+          "duration": 2.735236058,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -690,7 +675,7 @@
         "did:schema:evan-ipfs:json-schema:Qma2beXKwZeiUXcaRaQKwbBV1TqyiJnsMTYExUTdQue43J": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:schema:evan-ipfs:json-schema:Qma2beXKwZeiUXcaRaQKwbBV1TqyiJnsMTYExUTdQue43J",
-          "duration": 2.388030106,
+          "duration": 2.458045422,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -704,7 +689,7 @@
         "did:ion:EiClkZMDxPKqC9c-umQfTkR8vvZ9JPhl_xLDI9Nfk38w5w": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:ion:EiClkZMDxPKqC9c-umQfTkR8vvZ9JPhl_xLDI9Nfk38w5w",
-          "duration": 2.643724721,
+          "duration": 2.338926698,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -720,7 +705,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.363603359
+          "duration": 3.67849529
         }
       },
       {
@@ -729,7 +714,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.789039869
+          "duration": 2.965529253
         }
       },
       {
@@ -745,7 +730,7 @@
               "error": "add 'https://w3id.org/security/suites/ed25519-2018/v1'"
             }
           ],
-          "duration": 2.892937034,
+          "duration": 2.806502548,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -756,7 +741,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.839915633
+          "duration": 6.743140711
         }
       }
     ]
@@ -781,7 +766,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 2.98950229,
+          "duration": 5.300591376,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -795,7 +780,7 @@
         "did:vaa:3wJVWDQWtDFx27FqvSqyo5xsTsxC": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:vaa:3wJVWDQWtDFx27FqvSqyo5xsTsxC",
-          "duration": 5.959921305,
+          "duration": 3.678329109,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -809,7 +794,7 @@
         "did:unisot:test:n1aAmTXAg4o44Z9k8YCQncEY91r3TV7WU4": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:unisot:test:n1aAmTXAg4o44Z9k8YCQncEY91r3TV7WU4",
-          "duration": 3.773415016,
+          "duration": 6.915040899,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -825,7 +810,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 3.632983494
+          "duration": 4.813296962
         }
       }
     ]
@@ -837,7 +822,7 @@
         "did:lit:AEZ87t1bi5bRxmVh3ksMUi": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:lit:AEZ87t1bi5bRxmVh3ksMUi",
-          "duration": 2.283254011,
+          "duration": 4.576095759,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -853,7 +838,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": true,
-          "duration": 3.255327785
+          "duration": 4.636914689
         }
       },
       {
@@ -862,7 +847,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": true,
-          "duration": 2.887223194
+          "duration": 3.619427868
         }
       }
     ]
@@ -883,7 +868,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 5.97068438,
+          "duration": 7.722317789,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -910,7 +895,7 @@
               "error": "add 'https://w3id.org/security/suites/secp256k1-2019'"
             }
           ],
-          "duration": 3.815855397,
+          "duration": 5.950802995,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -926,7 +911,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.903301188
+          "duration": 4.593256592
         }
       }
     ]
@@ -940,7 +925,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.684798223
+          "duration": 2.623025638
         }
       },
       {
@@ -949,7 +934,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.531443385
+          "duration": 2.760069312
         }
       },
       {
@@ -958,7 +943,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.664424554
+          "duration": 2.695413277
         }
       },
       {
@@ -967,7 +952,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.583601397
+          "duration": 2.691700938
         }
       },
       {
@@ -976,7 +961,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.866414486
+          "duration": 2.566680172
         }
       },
       {
@@ -985,7 +970,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.535226971
+          "duration": 2.556472269
         }
       },
       {
@@ -994,7 +979,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.503575713
+          "duration": 2.715522179
         }
       },
       {
@@ -1003,7 +988,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.535471366
+          "duration": 2.67971109
         }
       },
       {
@@ -1012,7 +997,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.53715173
+          "duration": 2.54570904
         }
       }
     ]
@@ -1026,7 +1011,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 2.642503055
+          "duration": 2.545524903
         }
       }
     ]
@@ -1037,7 +1022,7 @@
       {
         "did:orb:hl:uEiBuxTFn4L_Hn8KsOWo8e9kqWP38MThBaToB_5yV3c5QTg:uoQ-BeEJpcGZzOi8vYmFma3JlaWRveXV5d3B5Zjd5NnA0Zmxiem5pNmh4d2prbGQ2N3ltanlpZnV0dWFwN3RzazUzdHNxank:EiD_igS1OSEftg5BGfisJGOS1rgcx5AkQhX0h1B4dHTUYA": {
           "error": "no response",
-          "duration": 60.916185088
+          "duration": 61.313030419
         }
       }
     ]
@@ -1051,7 +1036,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 3.252860561
+          "duration": 2.622775181
         }
       },
       {
@@ -1060,7 +1045,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.462456808
+          "duration": 2.407229564
         }
       }
     ]
@@ -1071,7 +1056,7 @@
       {
         "did:moncon:z6MkfrVYbLejh9Hv7Qmx4B2P681wBfPFkcHkbUCkgk1Q8LoA": {
           "error": "no response",
-          "duration": 61.898016638
+          "duration": 62.074564924
         }
       }
     ]
@@ -1083,7 +1068,7 @@
         "did:dock:5CxUdCGtopZEJhdv6kfLBZ22PMZX7UK8mdcHbTVw2nw6MVZH": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:dock:5CxUdCGtopZEJhdv6kfLBZ22PMZX7UK8mdcHbTVw2nw6MVZH",
-          "duration": 2.395823553,
+          "duration": 2.760717091,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1092,7 +1077,7 @@
         "did:dock:5CDsD8HZa6TeSfgmMcxAkbSXYWeob4jFQmtU6sxr4XWTZzUA": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:dock:5CDsD8HZa6TeSfgmMcxAkbSXYWeob4jFQmtU6sxr4XWTZzUA",
-          "duration": 2.463668934,
+          "duration": 3.107252362,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1108,7 +1093,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 11.998971598
+          "duration": 10.661976103
         }
       },
       {
@@ -1117,7 +1102,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 12.194619766
+          "duration": 9.768695348
         }
       }
     ]
@@ -1138,7 +1123,7 @@
               "error": "add 'https://w3id.org/security/suites/ed25519-2018/v1'"
             }
           ],
-          "duration": 3.133421321,
+          "duration": 3.377656811,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1154,7 +1139,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 6.462479463
+          "duration": 6.434072908
         }
       },
       {
@@ -1163,13 +1148,13 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": false,
-          "duration": 8.590051088
+          "duration": 6.321954479
         }
       },
       {
         "did:everscale:testnet:d760f69f830dfa0668f2e7923392217589ec8d62dcb90f2c06656665dba7fb4d": {
           "error": "no response",
-          "duration": 61.908355764
+          "duration": 62.187812852
         }
       }
     ]
@@ -1180,19 +1165,19 @@
       {
         "did:ala:quor:redT:706b3e4611a855b8b1267c4e9f0c77124af003fe": {
           "error": "no response",
-          "duration": 62.134454543
+          "duration": 62.192396256
         }
       },
       {
         "did:ala:quor:redT:3729a1872356dd5c5ac377c85d539fe63cb561d8": {
           "error": "no response",
-          "duration": 62.117549288
+          "duration": 62.190641006
         }
       },
       {
         "did:ala:quor:redT:ec27f358fd0d11d8934ceb51305622ae79b6ad15": {
           "error": "no response",
-          "duration": 62.050937799
+          "duration": 62.090876032
         }
       }
     ]
@@ -1206,7 +1191,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 7.766026755
+          "duration": 7.159592079
         }
       },
       {
@@ -1215,7 +1200,7 @@
           "valid_shacl": true,
           "valid_json-schema": false,
           "valid_jsonld": true,
-          "duration": 5.232509908
+          "duration": 5.927932705
         }
       }
     ]
@@ -1240,7 +1225,7 @@
               "error": "missing"
             }
           ],
-          "duration": 3.426538321,
+          "duration": 3.415780473,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1262,7 +1247,7 @@
               "error": "missing"
             }
           ],
-          "duration": 3.140612695,
+          "duration": 3.255663564,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1278,7 +1263,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 5.839549869
+          "duration": 5.997394126
         }
       },
       {
@@ -1287,7 +1272,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.599968118
+          "duration": 3.810901056
         }
       },
       {
@@ -1296,7 +1281,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.640530553
+          "duration": 3.808143861
         }
       },
       {
@@ -1305,7 +1290,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.645503319
+          "duration": 3.776026895
         }
       }
     ]
@@ -1327,7 +1312,7 @@
               "message": "'{\"@vocab\"=>\"https://www.iana.org/assignments/jose#\"}' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 2.559275187,
+          "duration": 2.792709341,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1346,7 +1331,7 @@
               "message": "'{\"@vocab\"=>\"https://www.iana.org/assignments/jose#\"}' is not yet listed as Verification Method Type in the <a href='https://www.w3.org/TR/did-spec-registries/#verification-method-types'>DID Specification Registries</a>"
             }
           ],
-          "duration": 2.675722899,
+          "duration": 2.710281801,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1362,7 +1347,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 5.239974778
+          "duration": 5.484908677
         }
       },
       {
@@ -1371,7 +1356,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 5.160419837
+          "duration": 4.474354601
         }
       }
     ]
@@ -1392,7 +1377,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 3.993783445,
+          "duration": 4.099766351,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1406,7 +1391,7 @@
         "did:ev:bmM8apgHQD8cPbwNsMSJKqkYRCDYhkK55uxR9": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:ev:bmM8apgHQD8cPbwNsMSJKqkYRCDYhkK55uxR9",
-          "duration": 2.278408527,
+          "duration": 2.346138602,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1415,7 +1400,7 @@
         "did:ev:bmM8MpeJAGF2ky7YUnwgJGKxyHdCL6DGAUmEW": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:ev:bmM8MpeJAGF2ky7YUnwgJGKxyHdCL6DGAUmEW",
-          "duration": 2.607627712,
+          "duration": 2.442940983,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1428,7 +1413,7 @@
       {
         "did:iid:3QUs61mk7a9CdCpckriQbA5emw8pubj6RMtHXP6gD66YbcungS6w2sa": {
           "error": "no response",
-          "duration": 61.956393583
+          "duration": 61.955497367
         }
       }
     ]
@@ -1449,7 +1434,7 @@
               "error": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 4.088471138,
+          "duration": 4.018211517,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1468,7 +1453,7 @@
               "error": "invalid 'verificationMethod'"
             }
           ],
-          "duration": 4.438649439,
+          "duration": 4.512061131,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1482,7 +1467,7 @@
         "did:polygonid:polygon:amoy:2qZBvRQPTZwYEKDVT3xY8W8zXvznqykyeqjSmXdz4U": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:polygonid:polygon:amoy:2qZBvRQPTZwYEKDVT3xY8W8zXvznqykyeqjSmXdz4U",
-          "duration": 2.231161652,
+          "duration": 2.232698404,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1496,7 +1481,7 @@
         "did:pdc:8801:0xf47b66bc0d9b7c73f9ff27bf1f49a2b69dc167fc": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:pdc:8801:0xf47b66bc0d9b7c73f9ff27bf1f49a2b69dc167fc",
-          "duration": 2.680476917,
+          "duration": 2.512372658,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1509,7 +1494,7 @@
       {
         "did:tys:4B4AbVzzcJSnCZsdX4VaKyQgHRnC": {
           "error": "no response",
-          "duration": 61.956346717
+          "duration": 61.958454211
         }
       }
     ]
@@ -1523,7 +1508,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.954621768
+          "duration": 2.837446365
         }
       },
       {
@@ -1532,7 +1517,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 2.904202562
+          "duration": 2.596780781
         }
       }
     ]
@@ -1555,7 +1540,7 @@
               "message": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 8.813279522,
+          "duration": 3.088446487,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1568,7 +1553,7 @@
       {
         "did:keri:EKYGGh-FtAphGmSZbsuBs_t4qpsjYJ2ZqvMKluq9OxmP": {
           "error": "no response",
-          "duration": 61.95245843
+          "duration": 61.964174832
         }
       }
     ]
@@ -1595,7 +1580,7 @@
               "message": "add 'https://www.w3.org/ns/did/v1'"
             }
           ],
-          "duration": 6.675022435,
+          "duration": 10.943218309,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1609,7 +1594,7 @@
         "did:content:3SqTXtoMpiPeNo5vEP2p7yNGQUeCGjqW1wnctv8yaCWXojD29GYcUEo": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:content:3SqTXtoMpiPeNo5vEP2p7yNGQUeCGjqW1wnctv8yaCWXojD29GYcUEo",
-          "duration": 2.341272954,
+          "duration": 2.341661588,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1625,7 +1610,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.926711581
+          "duration": 3.866313851
         }
       },
       {
@@ -1634,7 +1619,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": true,
-          "duration": 3.409985405
+          "duration": 3.368964589
         }
       }
     ]
@@ -1655,7 +1640,7 @@
               "error": "add 'https://w3id.org/security/suites/ed25519-2020/v1'"
             }
           ],
-          "duration": 3.247869756,
+          "duration": 3.063517549,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1673,7 +1658,7 @@
               "error": "add 'https://w3id.org/security/suites/ed25519-2020/v1'"
             }
           ],
-          "duration": 2.912472192,
+          "duration": 2.889755561,
           "valid_json-schema": true,
           "valid_jsonld": false
         }
@@ -1689,7 +1674,7 @@
           "valid_shacl": true,
           "valid_json-schema": true,
           "valid_jsonld": false,
-          "duration": 4.276809674
+          "duration": 3.838077405
         }
       }
     ]
@@ -1701,7 +1686,7 @@
         "did:iden3:polygon:amoy:xC8VZLUUfo5p9DWUawReh7QSstmYN6zR7qsQhQCsw": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:iden3:polygon:amoy:xC8VZLUUfo5p9DWUawReh7QSstmYN6zR7qsQhQCsw",
-          "duration": 2.20017862,
+          "duration": 2.226439659,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1709,22 +1694,22 @@
     ]
   },
   "did:prism": {
-    "status": "partially compliant",
+    "status": "no response",
     "identifiers": [
       {
         "did:prism:c36cd59bbc62dee1925e1343a8fed051416e417116d6169d060746f1e6816cd4": {
-          "valid": true,
-          "valid_shacl": true,
-          "valid_json-schema": true,
-          "valid_jsonld": false,
-          "duration": 4.134356757
+          "valid": false,
+          "error": "Uniresolver cannot resolve did:prism:c36cd59bbc62dee1925e1343a8fed051416e417116d6169d060746f1e6816cd4",
+          "duration": 2.788881477,
+          "valid_json-schema": false,
+          "valid_jsonld": false
         }
       },
       {
         "did:prism:0d8481c41b654794f02922601f84811763c655dcfc376acf841eb996846d5e68": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:prism:0d8481c41b654794f02922601f84811763c655dcfc376acf841eb996846d5e68",
-          "duration": 3.242598797,
+          "duration": 2.53990842,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1732,14 +1717,9 @@
       {
         "did:prism:52e163e8e53466b808e53df870bccd0a066aa4d05af9b689f5c73edcbe23d625": {
           "valid": false,
-          "errors": [
-            {
-              "value": "@context",
-              "error": "add 'https://w3id.org/security/suites/jws-2020/v1'"
-            }
-          ],
-          "duration": 3.580628765,
-          "valid_json-schema": true,
+          "error": "Uniresolver cannot resolve did:prism:52e163e8e53466b808e53df870bccd0a066aa4d05af9b689f5c73edcbe23d625",
+          "duration": 2.556337101,
+          "valid_json-schema": false,
           "valid_jsonld": false
         }
       }
@@ -1752,7 +1732,7 @@
         "did:tdw:QmbnQXj7DhWFrmgjDPKZCybn8fkKW7Wze57SQHpwsSQ7NZ:gist.githubusercontent.com:brianorwhatever:9c4633d18eb644f7a47f93a802691626:raw": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:tdw:QmbnQXj7DhWFrmgjDPKZCybn8fkKW7Wze57SQHpwsSQ7NZ:gist.githubusercontent.com:brianorwhatever:9c4633d18eb644f7a47f93a802691626:raw",
-          "duration": 2.699583048,
+          "duration": 2.533888349,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
@@ -1766,7 +1746,7 @@
         "did:quarkid:EiA9SoiWkqduxPJcVk3UVoUGWm3WL2S6mox3qH3AWVCwMQ": {
           "valid": false,
           "error": "Uniresolver cannot resolve did:quarkid:EiA9SoiWkqduxPJcVk3UVoUGWm3WL2S6mox3qH3AWVCwMQ",
-          "duration": 2.220972676,
+          "duration": 2.323329916,
           "valid_json-schema": false,
           "valid_jsonld": false
         }
